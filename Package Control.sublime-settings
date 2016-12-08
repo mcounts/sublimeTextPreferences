@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"FTPSync",
+		"GitGutter",
+		"Jade",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"TrailingSpaces"
+	]
+}
